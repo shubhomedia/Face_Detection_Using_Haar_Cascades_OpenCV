@@ -5,7 +5,7 @@ face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 #smile_casecade = cv2.CascadeClassifier("haarcascade_smile.xml")
 
 
-img = cv2.imread("cat.jpg")
+img = cv2.imread("group.jpg")
 
 gray_img = cv2.cvtColor(img,cv2.COLOR_RGB2GRAY)
 
