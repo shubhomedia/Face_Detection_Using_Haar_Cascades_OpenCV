@@ -2,14 +2,27 @@
 This Repository is for Motion Face Detection
 
 ## Step 1
-#####Install OpenCV
+##### Install OpenCV
 Open Terminal:
-Write : pip install opencv-python
+Write : 
+```
+pip install opencv-python
+
+```
+
 
 ##### Install NumPy
 Open Terminal:
-Write : pip install numpy
+Write : 
+```
+pip install numpy
+
+```
 
 ##### Install Scipy
 Open Terminal:
-Write : pip install scipy
+Write : 
+```
+pip install scipy
+
+```
